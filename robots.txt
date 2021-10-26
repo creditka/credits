@@ -1,0 +1,3 @@
+User-agent: *
+Host: gomelcredit.by
+Sitemap: http://gomelcredit.by/sitemap.xml
